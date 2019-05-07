@@ -1,0 +1,29 @@
+<annotation>
+	<folder>train</folder>
+	<filename>62. 554f34046cf4c38654d6cfeca3367833a23280a143fac7d6b049e9dd.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/62. 554f34046cf4c38654d6cfeca3367833a23280a143fac7d6b049e9dd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camper</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>183</ymin>
+			<xmax>704</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

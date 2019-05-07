@@ -1,0 +1,29 @@
+<annotation>
+	<folder>test</folder>
+	<filename>75-09-14-17:54.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/test/75-09-14-17:54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>72</ymin>
+			<xmax>324</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

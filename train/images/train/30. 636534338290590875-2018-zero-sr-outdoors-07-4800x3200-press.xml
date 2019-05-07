@@ -1,0 +1,29 @@
+<annotation>
+	<folder>train</folder>
+	<filename>30. 636534338290590875-2018-zero-sr-outdoors-07-4800x3200-press.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/30. 636534338290590875-2018-zero-sr-outdoors-07-4800x3200-press.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>105</ymin>
+			<xmax>535</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

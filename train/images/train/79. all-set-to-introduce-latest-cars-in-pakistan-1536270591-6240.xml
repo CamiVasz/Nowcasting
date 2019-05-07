@@ -1,0 +1,29 @@
+<annotation>
+	<folder>test</folder>
+	<filename>79. all-set-to-introduce-latest-cars-in-pakistan-1536270591-6240.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/test/79. all-set-to-introduce-latest-cars-in-pakistan-1536270591-6240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>43</ymin>
+			<xmax>663</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

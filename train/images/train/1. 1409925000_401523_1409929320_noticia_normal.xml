@@ -1,0 +1,30 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1. 1409925000_401523_1409929320_noticia_normal.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/1. 1409925000_401523_1409929320_noticia_normal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>158</ymin>
+			<xmax>529</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+
+

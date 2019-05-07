@@ -1,0 +1,29 @@
+<annotation>
+	<folder>train</folder>
+	<filename>40. 01-mercedes-benz-trucks-2017-actros-1851-bm-963-3400x1440.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/40. 01-mercedes-benz-trucks-2017-actros-1851-bm-963-3400x1440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>66</ymin>
+			<xmax>618</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

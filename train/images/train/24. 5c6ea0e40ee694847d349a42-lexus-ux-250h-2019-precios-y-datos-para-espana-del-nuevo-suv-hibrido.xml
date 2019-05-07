@@ -1,0 +1,29 @@
+<annotation>
+	<folder>train</folder>
+	<filename>24. 5c6ea0e40ee694847d349a42-lexus-ux-250h-2019-precios-y-datos-para-espana-del-nuevo-suv-hibrido.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/24. 5c6ea0e40ee694847d349a42-lexus-ux-250h-2019-precios-y-datos-para-espana-del-nuevo-suv-hibrido.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>138</ymin>
+			<xmax>554</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

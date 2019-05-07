@@ -1,0 +1,41 @@
+<annotation>
+	<folder>train</folder>
+	<filename>33. d_nq_np_817943-mco28504678071_102018-ub.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/33. d_nq_np_817943-mco28504678071_102018-ub.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>48</ymin>
+			<xmax>648</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>camper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>123</ymin>
+			<xmax>207</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+

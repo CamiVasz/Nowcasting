@@ -1,0 +1,30 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10. ykb1o.jpg</filename>
+	<path>/mnt/datos/Camila/A-nowcasting-model-for-Medellin-city/train/images/train/10. ykb1o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>76</ymin>
+			<xmax>666</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
+
+
+
