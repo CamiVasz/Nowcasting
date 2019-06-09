@@ -3,7 +3,7 @@ tqdm
 scipy
 matplotlib
 numpy
-imaug
+imgaug
 pandas
 opencv-python
 itertools
