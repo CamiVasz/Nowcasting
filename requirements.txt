@@ -1,0 +1,14 @@
+dropbox
+tqdm
+scipy
+matplotlib
+numpy
+imaug
+pandas
+opencv-python
+itertools
+tensorflow
+pillow
+arch
+scikit-learn
+statsmodels
