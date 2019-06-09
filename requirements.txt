@@ -6,7 +6,6 @@ numpy
 imgaug
 pandas
 opencv-python
-itertools
 tensorflow
 pillow
 arch
