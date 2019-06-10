@@ -1,6 +1,6 @@
 dropbox
 tqdm
-scipy
+scipy=1.2
 matplotlib
 numpy
 imgaug
