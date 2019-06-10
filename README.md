@@ -9,6 +9,8 @@ Two models were evaluated:
 * SARIMA model to forecast the unemployment rate using historical data, the code can be found in the notebook: Time Series analysis for the Unemployment rate
 * Single-Shot Detector, trained to detect 8 classes of vehicles in CCTV traffic cameras installed in Medell\'{i}n. The training can be found in the training notebook.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CamiVasz/Nowcasting/master)
+
 ## Set up conda enviroment
 0. Install Anaconda or Miniconda (See [this installation guide](https://conda.io/docs/user-guide/install/index.html))
 1. Create an environment:
