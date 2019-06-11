@@ -1,0 +1,6 @@
+taxi 375 316 524 177
+taxi 195 480 366 430
+motorcycle 237 371 302 279
+motorcycle 88 422 189 336
+motorcycle 30 376 140 300
+bus 493 134 636 28

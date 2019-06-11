@@ -1,0 +1,12 @@
+truck 213 144 286 58
+truck 1 439 150 200
+truck 147 80 186 30
+truck 293 35 341 1
+car 356 91 406 59
+car 317 55 356 32
+car 201 26 231 2
+motorcycle 220 65 239 34
+motorcycle 214 45 226 22
+motorcycle 574 234 606 170
+motorcycle 404 66 417 36
+car 639 475 704 382

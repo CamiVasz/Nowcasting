@@ -1,0 +1,10 @@
+truck 417 365 587 114
+truck 638 475 703 279
+industrial 70 335 267 10
+car 98 158 162 76
+car 265 40 302 1
+motorcycle 514 134 549 56
+motorcycle 654 184 682 115
+motorcycle 631 177 668 98
+motorcycle 623 120 640 79
+taxi 110 82 173 24

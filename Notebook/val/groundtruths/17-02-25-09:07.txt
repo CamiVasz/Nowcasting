@@ -1,0 +1,8 @@
+truck 482 247 618 96
+truck 52 394 241 148
+truck 216 88 314 1
+van 125 108 202 24
+car 68 196 155 102
+motorcycle 449 97 475 38
+motorcycle 55 76 91 32
+motorcycle 16 300 59 230

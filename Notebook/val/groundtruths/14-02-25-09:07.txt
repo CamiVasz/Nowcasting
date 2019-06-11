@@ -1,0 +1,5 @@
+car 375 295 511 140
+car 221 158 308 77
+motorcycle 328 85 353 24
+motorcycle 342 45 382 1
+motorcycle 90 380 138 287

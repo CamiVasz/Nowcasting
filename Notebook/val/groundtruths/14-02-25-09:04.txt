@@ -1,0 +1,5 @@
+truck 288 95 388 1
+motorcycle 321 307 376 189
+motorcycle 478 177 509 116
+camper 201 70 261 17
+taxi 93 105 137 53

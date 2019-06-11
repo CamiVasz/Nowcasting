@@ -1,0 +1,15 @@
+taxi 478 245 542 181
+taxi 429 480 537 423
+taxi 137 40 159 16
+taxi 233 29 255 6
+bus 71 52 123 2
+truck 599 222 694 129
+car 272 23 300 1
+car 333 58 358 31
+motorcycle 416 167 438 128
+motorcycle 444 276 480 209
+motorcycle 400 103 418 71
+motorcycle 386 57 400 27
+motorcycle 371 35 384 16
+motorcycle 186 163 212 114
+motorcycle 172 90 188 54

@@ -1,0 +1,5 @@
+car 331 113 411 58
+car 616 310 704 215
+motorcycle 41 69 78 16
+motorcycle 571 152 622 85
+taxi 66 24 97 1

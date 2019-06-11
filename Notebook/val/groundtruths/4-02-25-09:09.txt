@@ -1,0 +1,14 @@
+taxi 74 164 121 103
+car 257 153 300 105
+camper 339 76 375 45
+car 362 28 390 7
+car 462 50 492 24
+van 410 112 461 59
+motorcycle 386 98 403 61
+motorcycle 539 263 576 198
+motorcycle 571 236 606 175
+motorcycle 270 76 291 47
+motorcycle 135 53 147 25
+motorcycle 75 79 99 41
+motorcycle 11 194 44 126
+motorcycle 214 480 269 398

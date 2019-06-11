@@ -1,0 +1,6 @@
+truck 349 291 553 96
+truck 553 142 666 56
+motorcycle 525 296 572 199
+motorcycle 504 454 584 353
+camper 16 394 214 233
+car 416 131 516 59

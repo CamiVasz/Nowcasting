@@ -1,0 +1,7 @@
+truck 445 164 562 77
+taxi 583 233 688 148
+taxi 620 423 704 291
+car 479 113 558 49
+motorcycle 410 76 438 31
+motorcycle 381 77 398 25
+motorcycle 438 31 464 1

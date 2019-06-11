@@ -1,0 +1,6 @@
+motorcycle 121 97 149 49
+motorcycle 80 138 119 81
+motorcycle 277 70 313 25
+motorcycle 507 175 554 111
+car 344 80 415 28
+taxi 48 20 75 1

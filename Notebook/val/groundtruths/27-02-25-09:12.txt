@@ -1,0 +1,4 @@
+truck 385 129 507 7
+motorcycle 488 183 528 124
+motorcycle 366 182 413 113
+motorcycle 160 101 200 52

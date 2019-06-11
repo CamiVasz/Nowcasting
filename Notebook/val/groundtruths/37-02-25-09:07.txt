@@ -1,0 +1,13 @@
+motorcycle 553 326 605 233
+motorcycle 611 380 678 296
+motorcycle 510 234 568 166
+motorcycle 421 141 470 93
+motorcycle 339 123 384 66
+motorcycle 397 99 426 50
+motorcycle 325 45 351 1
+van 373 296 496 181
+van 405 468 568 315
+truck 194 420 389 159
+truck 175 88 268 1
+car 347 193 433 116
+car 1 195 69 128

@@ -1,0 +1,6 @@
+camper 110 414 290 255
+camper 158 113 219 53
+car 255 74 307 24
+motorcycle 204 73 233 32
+motorcycle 110 179 145 119
+taxi 186 28 234 1

@@ -1,0 +1,11 @@
+motorcycle 516 241 545 181
+motorcycle 515 107 538 68
+motorcycle 605 430 657 340
+motorcycle 235 82 264 40
+motorcycle 271 25 283 1
+car 289 104 331 55
+camper 471 151 534 99
+camper 249 220 327 127
+truck 382 212 501 78
+truck 408 52 460 1
+bus 158 48 226 1
